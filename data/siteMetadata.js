@@ -4,14 +4,14 @@ const siteMetadata = {
   author: 'Yusup Maulana',
   headerTitle: 'Yusup Maulana',
   description:
-    'Software Engineer that loves to build scalable applications with TypeScript, Go, and Python.',
+    'Software Engineer that loves to build scalable applications with TypeScript, React, Node.js, Go, and Python.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://yusup-blog.vercel.app',
+  siteRepo: 'https://github.com/yusupscopes/yusup-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  mastodon: 'https://mastodon.social',
   email: 'yusupmaulana950@gmail.com',
   github: 'https://github.com/yusupscopes',
   x: 'https://x.com/yusupscopes',
